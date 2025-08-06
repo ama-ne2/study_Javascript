@@ -1,6 +1,5 @@
 const btn = document.querySelector("#btn");
-const font = document.querySelector("h1");
-console.log(font);
+console.log("foo");
 
 const numA = 3;
 let numB = 9;
@@ -13,7 +12,5 @@ console.log(btn);
 
 btn.addEventListener("click",() =>{
     console.log("福島");
-    font.style.color = "tomato";
-    document.body.style.backgroundColor = "blue";
 });
 

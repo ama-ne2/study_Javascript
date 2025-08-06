@@ -14,6 +14,6 @@ console.log(btn);
 btn.addEventListener("click",() =>{
     console.log("福島");
     font.style.color = "tomato";
-    document.body.style.backgroundColor = "blue";
+    document.body.style.backgroundColor = "#00F";
 });
 
