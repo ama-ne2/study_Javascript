@@ -6,13 +6,13 @@ console.log("foo");
 
 
 for(let i = 0; i <10; i++){
-    // console.log(`メッセージ${i+1}回目`);
+    console.log(`メッセージ${i+1}回目`);
 }
 
 let count = 0;
 
 while(count < 10){
-    // console.log(`メッセージ${count+1}回目`);
+    console.log(`メッセージ${count+1}回目`);
     count++
 }
 
@@ -24,4 +24,4 @@ function amane(momo){
     console.log(`タキティーは${momo}に似ている`);
 }
 
-amane("アザラシ");
+amane("kuma");

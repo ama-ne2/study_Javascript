@@ -18,6 +18,7 @@ btn.addEventListener("click",() =>{
 });
 
 
-for(let i = 0; i<100; i++){
-    console.log(`桃ちゃん愛してる`);
+for(let i = 0; i<8; i++){
+    console.log();
+    
 }
