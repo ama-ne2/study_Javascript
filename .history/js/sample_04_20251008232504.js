@@ -1,0 +1,1 @@
+const leftText = document.getElementById("leftText");
